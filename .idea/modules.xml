@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SMSTranscribe-master.iml" filepath="$PROJECT_DIR$/SMSTranscribe-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legendary-rotary-phone.iml" filepath="$PROJECT_DIR$/legendary-rotary-phone.iml" />
     </modules>
   </component>
 </project>
