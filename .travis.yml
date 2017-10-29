@@ -2,7 +2,7 @@ language: android
 android:
   components:
     - tools
-    - platform-toolsann arbor parks
+    - platform-tools
     - tools
     - extra
     - android-24
