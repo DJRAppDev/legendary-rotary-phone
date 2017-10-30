@@ -11,5 +11,5 @@ android:
     - extra-google-m2repository
 
 before_script:
-  - yes | sdkmanager --licenses
+  - echo "y" | sdkmanager "build-tools;26.0.1"
 
