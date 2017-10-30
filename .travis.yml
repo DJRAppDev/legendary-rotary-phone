@@ -1,5 +1,4 @@
 language: android
-sudo: required
 dist: trusty
 android:
   components:
@@ -11,5 +10,5 @@ android:
     - extra-google-m2repository
 
 before_script:
-  - echo "y" | sdkmanager "build-tools;26.0.1"
+  - echo "y" | sdkmanager --licenses
 
