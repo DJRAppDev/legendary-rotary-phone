@@ -11,5 +11,5 @@ android:
     - extra-google-m2repository
 
 before_script:
-  - yes | sudo sdkmanager --licenses
+  - yes | sdkmanager --licenses
 
