@@ -10,5 +10,5 @@ android:
     - extra-google-m2repository
 
 before_script:
-  - echo "y" | sdkmanager "platform-tools;26.0.1"
+  - echo "y" | sdkmanager "build-tools;26.0.1"
 
