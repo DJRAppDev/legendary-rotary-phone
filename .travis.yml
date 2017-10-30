@@ -10,3 +10,6 @@ android:
     - android-23
     - extra-google-m2repository
 
+before_script:
+  - yes | sudo sdkmanager --licenses
+
